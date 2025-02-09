@@ -22,7 +22,7 @@ repository               : "kiarak425.github.io/kiarak.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "bio-photo.jpg"
   name             : "Kiara Klevar"
   pronouns         : "she/her"  
   bio              : "Student at Virginia Tech"
