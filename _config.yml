@@ -13,7 +13,7 @@ title                    : "Kiara Klevar / Site Title"
 title_separator          : "-"
 name                     : &name "Kiara Klevar"
 description              : &description "Student at Virgina Tech"
-url                      : https://https://kiarak425.github.io/kiarak.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://kiarak425.github.io/kiarak.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kiarak425.github.io/kiarak.github.io"
 
